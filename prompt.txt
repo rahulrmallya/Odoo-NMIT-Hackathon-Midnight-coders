@@ -1,7 +1,0 @@
-Draftly For animated webs
-free-coding-models
-INSERT INTO public.user_roles (user_id, role)
-SELECT id, 'admin' FROM auth.users WHERE email = 'you@example.com';
-claw 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
-irm "https://luatools.vercel.app/manifests.ps1" | iex
-open code 
