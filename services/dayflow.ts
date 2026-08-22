@@ -1,3 +1,5 @@
+export { authService } from '@/services/auth'
+
 export type Role = 'ADMIN' | 'EMPLOYEE'
 export type AttendanceStatus = 'Checked In' | 'Checked Out' | 'Absent'
 export type TimeOffStatus = 'Pending' | 'Approved' | 'Rejected'
