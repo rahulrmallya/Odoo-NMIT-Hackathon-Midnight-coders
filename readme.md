@@ -134,4 +134,4 @@ Built collaboratively as part of the hackathon project.
 
 🚧 **In Development**
 
-Frontend functionality is being developed using mock/service data while the backend is developed separately. k
+Frontend functionality is being developed using mock/service data while the backend is developed separately. 
