@@ -47,7 +47,7 @@
 
 :root {
   color-scheme: light;
-  --background: oklch(0.985 0.003 247);
+  --background: oklch(0.98 0.003 247);
   --foreground: oklch(0.20 0.02 250);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
@@ -63,7 +63,7 @@
   --accent: oklch(0.97 0 0);
   --accent-foreground: oklch(0.205 0 0);
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
+  --border: oklch(0.90 0 0);
   --input: oklch(0.922 0 0);
   --ring: oklch(0.708 0 0);
   --chart-1: oklch(0.87 0 0);
@@ -158,6 +158,7 @@
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
   }
